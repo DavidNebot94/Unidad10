@@ -1,14 +1,11 @@
 package aplicacion10.pkg12;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
-public class Aplicacion1012 {
+public class Main12 {
 
     public static void main(String[] args) {
         System.out.print("Nombre: ");
